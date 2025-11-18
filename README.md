@@ -53,11 +53,11 @@ Kenya faces recurring disease outbreaks that strain healthcare systems and cost 
 ## 📊 Project Demo
 
 ### 1. Exploratory Data Analysis
-![kenya_disease_eda_REAL_DATA.png](kenya_disease_eda_REAL_DATA.png)
+![kenya_disease_eda_REAL_DATA.png](kenya_disease_eda.png)
 *Analysis of outbreak patterns across Kenyan counties, showing seasonal trends and risk factors*
 
 ### 2. Model Performance
-![kenya_model_evaluation_REAL_DATA.png](kenya_disease_model_evaluation.png)
+kenya_model_evaluation_REAL_DATA.png (kenya_disease_model_evaluation.png)
 *Confusion matrix, feature importance, and model comparison showing 85%+ accuracy*
 
 ### 3. Sample Prediction
