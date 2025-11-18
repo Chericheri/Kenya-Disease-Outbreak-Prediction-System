@@ -68,7 +68,6 @@ data/
 # Reports, plots, and outputs
 reports/
 outputs/
-*.png
 *.jpg
 *.pdf
 
