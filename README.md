@@ -113,8 +113,8 @@ kenya-disease-prediction/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/kenya-disease-prediction.git
-cd kenya-disease-prediction
+https://github.com/Chericheri/Kenya-Disease-Outbreak-Prediction-System.git
+cd Kenya-Disease-Prediction-System
 ```
 
 ### Step 2: Install Dependencies
@@ -223,8 +223,8 @@ python kenya_disease_prediction.py
 
 ## 👨‍💻 Author
 
-**PLP Academy Student**  
-AI & Machine Learning Assignment - Week 2  
+**Charity Cheruto**  
+AI & Machine Learning Assignment   
 November 2025
 
 ---
